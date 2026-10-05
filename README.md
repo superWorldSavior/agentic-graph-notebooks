@@ -29,7 +29,7 @@ On the corpus this was built for, one neighbourhood-persistence measure reached 
 ## Install
 
 ```bash
-git clone https://github.com/Casys-AI/agentic-graph-notebooks
+git clone https://github.com/superWorldSavior/agentic-graph-notebooks
 cd agentic-graph-notebooks
 pip install -r requirements.txt
 jupyter lab

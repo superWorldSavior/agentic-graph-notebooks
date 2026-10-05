@@ -29,7 +29,7 @@ Sur le corpus qui a motivé ce travail, une mesure de persistance de voisinage a
 ## Installation
 
 ```bash
-git clone https://github.com/Casys-AI/agentic-graph-notebooks
+git clone https://github.com/superWorldSavior/agentic-graph-notebooks
 cd agentic-graph-notebooks
 pip install -r requirements.txt
 jupyter lab
